@@ -10,7 +10,7 @@ Notes in order of: \
 `howSum.ipynb` \
 `bestSum.ipynb` \
 `canConstruct.ipynb` \
-`howConstruct.ipynb` \
+`countConstruct.ipynb` \
 `bestConstruct.ipynb`
 
 Examples taken from Alvin's "freeCodeCamp", and "Tech With Nikola": 
