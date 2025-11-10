@@ -13,7 +13,7 @@ Notes in order of: \
 `countConstruct.ipynb` \
 `bestConstruct.ipynb`
 
-Examples taken from Alvin's "freeCodeCamp", and "Tech With Nikola": 
-https://www.youtube.com/watch?v=oBt53YbR9Kk
-https://www.youtube.com/watch?v=Hdr64lKQ3e4&t
+Examples taken from Alvin's "freeCodeCamp", and "Tech With Nikola": \
+https://www.youtube.com/watch?v=oBt53YbR9Kk \
+https://www.youtube.com/watch?v=Hdr64lKQ3e4&t \
 https://www.youtube.com/watch?v=rE5h11FwiVw&t
